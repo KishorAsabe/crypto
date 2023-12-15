@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBWKaRuj0QAtnIgJ2mWpelmsUPCklFkt2A",
-  authDomain: "crypto-analyzer-loginwatchlist.firebaseapp.com",
-  projectId: "crypto-analyzer-loginwatchlist",
-  storageBucket: "crypto-analyzer-loginwatchlist.appspot.com",
-  messagingSenderId: "890401405091",
-  appId: "1:890401405091:web:f84a7a0cf2831673c4a716"
+  apiKey: "AIzaSyBrc4b8ffaz2OS_ZHYVBHC4IkK6w6BzS9k",
+  authDomain: "crypto-analyzer-bedf2.firebaseapp.com",
+  projectId: "crypto-analyzer-bedf2",
+  storageBucket: "crypto-analyzer-bedf2.appspot.com",
+  messagingSenderId: "778578965106",
+  appId: "1:778578965106:web:cf894812b9056099ed08eb"
 };
 
 
-export default firebaseConfig;
+export default firebaseConfig
